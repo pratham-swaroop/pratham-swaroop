@@ -1,4 +1,4 @@
-<!-- Profile Banner --><p align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Syntax_logo.svg/512px-Syntax_logo.svg.png" alt="Syntax Logo" width="140"/></p><!-- Name & Title --><h1 align="center">Hi 👋, I'm Pratham Swaroop</h1><h3 align="center">Cloud Engineer | Intune Admin | SOC Analyst | Microsoft Defender Specialist</h3>
+</p><!-- Name & Title --><h1 align="center">Hi 👋, I'm Pratham Swaroop</h1><h3 align="center">Cloud Engineer | Intune Admin | SOC Analyst | Microsoft Defender Specialist</h3>
 
 ---
 
