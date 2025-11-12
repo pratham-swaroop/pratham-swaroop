@@ -28,7 +28,7 @@
 
 ### 🏅 Certifications
 
-![MD-102: Endpoint Administrator] (Professional Certificates/MD-102 Cert Logo.webp)![Uploading image.png…]()
+![MD-102: Endpoint Administrator] (Professional Certificates/MD-102 Cert Logo.webp)!
 
 
 ![MD-102](https://img.shields.io/badge/MD--102-Endpoint%20Administrator-0632a0?style=for-the-badge&logo=microsoft&logoColor=white)
