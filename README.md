@@ -26,6 +26,12 @@
 
 ---
 
+### 🏅 Certifications
+
+![MD-102](https://img.shields.io/badge/MD--102-Endpoint%20Administrator-0632a0?style=for-the-badge&logo=microsoft&logoColor=white)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-1eb4e6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![SC-200](https://img.shields.io/badge/SC--200-Security%20Operations%20Analyst-3cc85a?style=for-the-badge&logo=microsoft&logoColor=white)
+
 ## 📂 Featured Projects
 ### **🔹 Microsoft Intune**
 - **Device Compliance Automation** — Graph API + PowerShell policy deployment
