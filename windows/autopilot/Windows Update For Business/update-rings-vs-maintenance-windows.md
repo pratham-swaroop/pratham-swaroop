@@ -2,6 +2,7 @@
 
 ![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/462d73fa0ee4004e6f687c3d67c8548a7b24a62e/windows/autopilot/private/Media_Files/UpdateRingVsMaintenanceWindow.png)
 
+![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/462d73fa0ee4004e6f687c3d67c8548a7b24a62e/windows/autopilot/private/Media_Files/UpdateRingVsMaintenanceWindow.png)
 ## Introduction
 
 One of the most common misconceptions in Microsoft Intune is that **Maintenance Windows control when Windows Updates install and restart**.
