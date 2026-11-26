@@ -1,5 +1,7 @@
 # Update Rings vs. Maintenance Windows: Understanding the Real Difference in Microsoft Intune
 
+![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/48e7e4dcfd0dbbcf0e0ad509577f04baf77458da/windows/autopilot/01-public/Windows%20Update%20For%20Business/UpdateRingVsMaintenanceWindow.png)
+
 ## Introduction
 
 One of the most common misconceptions in Microsoft Intune is that **Maintenance Windows control when Windows Updates install and restart**.
