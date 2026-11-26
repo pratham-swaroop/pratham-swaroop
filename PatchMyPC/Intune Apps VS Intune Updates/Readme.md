@@ -7,6 +7,8 @@ A common question when using Patch My PC with Microsoft Intune is whether to pub
 This article uses **TeamViewer** as a practical example and explains the two most common deployment scenarios.
 
 ---
+![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/b61d7ca3efa3d700949a795803b56e57f2d8867b/MediaFiles/PMPC_IntuneApps-VS-IntuneUpdates.jpg)
+
 
 ## Scenario 1: Required App
 
