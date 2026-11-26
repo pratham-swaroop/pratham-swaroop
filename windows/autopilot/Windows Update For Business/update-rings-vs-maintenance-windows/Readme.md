@@ -1,6 +1,6 @@
 # Update Rings vs. Maintenance Windows: Understanding the Real Difference in Microsoft Intune
 
-![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/11f6559a2e47438f9e9385ee72b3a8f6d4ed6de7/windows/autopilot/01-public/Windows%20Update%20For%20Business/Images/UpdateRingVsMaintenanceWindow.png)
+![image alt](https://github.com/pratham-swaroop/work-vault-master/blob/61b5f6268226abf4b1c822db5077f1340288ef96/MediaFiles/UpdateRingVsMaintenanceWindow.png)
 
 ## Introduction
 
